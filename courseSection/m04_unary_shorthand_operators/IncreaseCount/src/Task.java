@@ -6,6 +6,10 @@ public class Task {
         count = args.length > 0 ? Integer.parseInt(args[0]) : count;
 
         // Write your solution here
+        count = count + 1;
+        count++;
+        count += 1;
 
+        System.out.println("count = " + count);
     }
 }

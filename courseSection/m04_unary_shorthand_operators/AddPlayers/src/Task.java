@@ -6,6 +6,7 @@ public class Task {
         //-----------------------------------
 
         //Write your solution here
-
+        players += 4;
+        System.out.println("players = " + players);
     }
 }
