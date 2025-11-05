@@ -12,11 +12,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFIC0jXSA423lQZNMqLZTtBT7ymkcEDxA/QOmu98bTopAnQuoOX8XYxhM8sKsaT0djA==
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
     learner_created: false
   - name: test/Tests.java
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 05 Nov 2025 15:20:20 UTC"
 record: -1

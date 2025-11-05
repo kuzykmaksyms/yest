@@ -8,7 +8,7 @@ public class Task {
     public static void next3(int n){
 
         //Write your solution here
-
+        System.out.println((n + 1) + " " + (n + 2) + " " + (n + 3));
     }
 
 

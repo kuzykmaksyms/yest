@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 260
-        length: 26
+        length: 158
         placeholder_text: //Write your solution here
         initial_state:
           length: 26
@@ -12,10 +12,10 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: VlI3ksUnoMtmnSVSYBfvkoUf/VYZOtLEpl5jqEv/5AMZjQxxCykWI6Q2qEG8pocSxbWpTZAdBgxUsPkoCZhFLM3ZjMJWGbBZyyDfAUxwqhPnMYhu+MnlbxGt6b/00khXBMHz/e0jCiXpfC6b2rAfg16lM0qCRNHKEGM5o0NR6ycd0IBsoaJT1D/zlgvejYcH69721JACrN1ttTXvf2kpng==
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
-      - offset: 359
-        length: 26
+      - offset: 491
+        length: 421
         placeholder_text: //Write your solution here
         initial_state:
           length: 26
@@ -23,11 +23,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: VlI3ksUnoMtmnSVSYBfvko0W2rg9r0ymmx+vEq8+xr0UNmNlEqbvHMGc+FsxwH9j5oWOjGCGxx0REu6a0ZQ0b2JVQhG6g9ft2+kc6D4M0/5W/+dNZ446JZ4kw01chvYdOGuFh2ycZzFJT4+kA7Y/tNLReOQBoGJfpfx0tNTwgxC2FgF8ctcXMlRLk+TF/rJLigqucpwYuTVtVX0CvNREQ8MV6uATTaQL5Nj57FHSWb/4NxX38zwoJe8le//o9wDd2coUof89PyXuGPm9tMc/liBBVyj7wGbkaSUYK2/0fVWoy/PqCHE1hl7CQgyhKnNhC6V7TBKraztyg4JL+mrZrRydbYgR1uWGsgqAdetwPS7VkS4YCYrhOJncE1Rh42uTYdIKqA2uK/bdUMOKjMj3QSWC4HbPxt2W2beM4N44b9+ZtgsqrrNPgBgxzoayKY6R
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
     learner_created: false
   - name: test/Tests.java
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 05 Nov 2025 15:26:22 UTC"
 record: -1

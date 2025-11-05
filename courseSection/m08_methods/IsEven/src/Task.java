@@ -8,7 +8,7 @@ public class Task {
     public static boolean isEven(int n){
 
         //Write your solution here
-
+        return n % 2 == 0;
     }
 
 }

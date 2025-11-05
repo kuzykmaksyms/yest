@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-11-05T15:26:22" hostname="DESKTOP-T6BLNLD" time="0.047">
+  <properties/>
+  <testcase name="[1] 7, P, 789:;&lt;=&gt;?@ABCDEFGHIJKLMNOP" classname="Tests" time="0.03"/>
+  <testcase name="[2] X, }, XYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}" classname="Tests" time="0.002"/>
+  <testcase name="[3] +, g, +,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefg" classname="Tests" time="0.0"/>
+  <testcase name="[1] uppercase, ABCDEFGHIJKLMNOPQRSTUVWXYZ" classname="Tests" time="0.004"/>
+  <testcase name="[2] lowercase, abcdefghijklmnopqrstuvwxyz" classname="Tests" time="0.0"/>
+  <testcase name="[3] digit, 0123456789" classname="Tests" time="0.001"/>
+  <testcase name="[4] special, !&quot;#$%&amp;'()*+,-." classname="Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

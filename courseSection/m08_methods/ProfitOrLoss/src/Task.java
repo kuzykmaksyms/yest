@@ -8,7 +8,13 @@ public class Task {
     public static String profit(int buyPrice, int sellPrice){
 
         //Write your solution here
-
+        if (sellPrice > buyPrice) {
+            return "profit";
+        } else if (sellPrice < buyPrice) {
+            return "loss";
+        } else {
+            return "no loss";
+        }
     }
 
 }
