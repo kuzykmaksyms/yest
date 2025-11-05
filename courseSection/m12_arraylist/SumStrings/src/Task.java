@@ -13,7 +13,25 @@ public class Task {
     public static ArrayList<Integer> getSum(ArrayList<String> digits) {
 
         //Write your solution here
+        ArrayList<Integer> sums = new ArrayList<>();
 
+        for (String strNum : digits) {
+            int currentSum = 0;
+            for (int i = 0; i < strNum.length(); i++) {
+                // Витягуємо символ (цифру)
+                char digitChar = strNum.charAt(i);
+
+                // Перетворюємо символ на його числове значення
+                // (Або використовуємо Character.getNumericValue(digitChar)
+                // або віднімаємо ASCII-код '0')
+                int digit = digitChar - '0';
+
+                currentSum += digit;
+            }
+            sums.add(currentSum);
+        }
+
+        return sums;
     }
 
 }

@@ -12,7 +12,19 @@ public class Task {
     public static int findMaxBoth(ArrayList<Integer> nums) {
 
         //Write your solution here
+        int max = 0;
 
+        for (int num : nums) {
+            if (num > 0) {
+                int negativeNum = -num;
+                if (nums.contains(negativeNum)) {
+                    if (num > max) {
+                        max = num;
+                    }
+                }
+            }
+        }
+        return max;
     }
 
 }

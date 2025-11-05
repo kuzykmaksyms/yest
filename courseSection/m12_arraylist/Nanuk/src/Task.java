@@ -16,7 +16,33 @@ public class Task {
     public static boolean hunt(ArrayList<String> result, int wayStones, int boast) {
 
         //Write your solution here
+        int totalCatches = 0;
+        int nanukCount = 0;
 
+        for (String item : result) {
+            if (item.equals("nanuk")) {
+                nanukCount++;
+            } else {
+                try {
+                    totalCatches += Integer.parseInt(item);
+                } catch (NumberFormatException e) {
+                    // Ігноруємо елементи, які не є числом або "nanuk"
+                }
+            }
+        }
+
+// 1. Успішна умова 1: Перевірка на зіткнення з nanuk без wayStone
+// Кожен wayStone може уникнути одного nanuk.
+        if (nanukCount > wayStones) {
+            return false; // Зустріли забагато nanuk, wayStones не вистачило
+        }
+
+// 2. Успішна умова 2: Перевірка на boast (здобич >= boast)
+        if (totalCatches >= boast) {
+            return true; // wayStones вистачило, і здобич більша за boast
+        } else {
+            return false; // wayStones вистачило, але здобичі менше за boast
+        }
     }
 
 }

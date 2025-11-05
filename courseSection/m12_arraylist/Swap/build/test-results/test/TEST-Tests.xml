@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-11-05T15:59:35" hostname="DESKTOP-T6BLNLD" time="0.028">
+  <properties/>
+  <testcase name="[1] [one, two, three], 0, 2, [three, two, one]" classname="Tests" time="0.022"/>
+  <testcase name="[2] [a, c, b, d, e], 0, 3, [d, c, b, a, e]" classname="Tests" time="0.001"/>
+  <testcase name="[3] [a, c, b, d, e], 1, 4, [a, e, b, d, c]" classname="Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

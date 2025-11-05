@@ -13,7 +13,23 @@ public class Task {
 
     public static int refuels(ArrayList<Integer> deliveries, int gasTank){
 
-        //Write your solution here
+        int refuels = 0;
+
+        for (int delivery : deliveries) {
+            if (delivery > gasTank) {
+                // Calculate full refuels needed for deliveries larger than the tank capacity
+                refuels += delivery / gasTank;
+                // Check if there is a need for an additional partial refill
+                if (delivery % gasTank != 0) {
+                    refuels++;
+                }
+            } else {
+                // If the delivery can be handled by one full tank or less
+                refuels++;
+            }
+        }
+
+        return refuels;
 
     }
 

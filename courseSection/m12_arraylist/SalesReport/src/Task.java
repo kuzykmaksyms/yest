@@ -18,7 +18,22 @@ public class Task {
     public static boolean calculateSales(ArrayList<Double> sales) {
 
         //Write your solution here
+        double totalSales = 0;
 
+// Перевіряємо індивідуальну мету і рахуємо загальну суму
+        for (double sale : sales) {
+            if (sale < 30000.0) {
+                return false; // Умова 2 не виконана: філія заробила менше 30,000
+            }
+            totalSales += sale;
+        }
+
+// Перевіряємо загальну мету
+        if (totalSales >= 5000000.0) {
+            return true;
+        } else {
+            return false; // Умова 1 не виконана: загальна сума менша за 5,000,000
+        }
     }
 
 }
