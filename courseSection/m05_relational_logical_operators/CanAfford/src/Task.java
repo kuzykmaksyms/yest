@@ -9,6 +9,7 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
-
+        boolean canAfford = accountBalance >= itemPrice;
+        System.out.println("canAfford = " + canAfford);
     }
 }

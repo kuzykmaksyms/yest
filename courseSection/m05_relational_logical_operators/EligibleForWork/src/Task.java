@@ -8,6 +8,7 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
-
+        boolean isEligible = (age >= 18) && (age <= 65);
+        System.out.println("Am I eligible to work? " + isEligible);
     }
 }
