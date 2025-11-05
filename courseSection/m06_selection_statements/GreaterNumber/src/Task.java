@@ -10,6 +10,7 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
-
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
     }
 }

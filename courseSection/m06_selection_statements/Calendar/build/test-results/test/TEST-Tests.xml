@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-11-05T13:53:39" hostname="DESKTOP-T6BLNLD" time="0.056">
+  <properties/>
+  <testcase name="[1] [1], [January]" classname="Tests" time="0.026"/>
+  <testcase name="[2] [2], [February]" classname="Tests" time="0.002"/>
+  <testcase name="[3] [3], [March]" classname="Tests" time="0.001"/>
+  <testcase name="[4] [4], [April]" classname="Tests" time="0.001"/>
+  <testcase name="[5] [5], [May]" classname="Tests" time="0.001"/>
+  <testcase name="[6] [6], [June]" classname="Tests" time="0.001"/>
+  <testcase name="[7] [7], [July]" classname="Tests" time="0.001"/>
+  <testcase name="[8] [8], [August]" classname="Tests" time="0.001"/>
+  <testcase name="[9] [9], [September]" classname="Tests" time="0.0"/>
+  <testcase name="[10] [10], [October]" classname="Tests" time="0.001"/>
+  <testcase name="[11] [11], [November]" classname="Tests" time="0.001"/>
+  <testcase name="[12] [12], [December]" classname="Tests" time="0.001"/>
+  <testcase name="[13] [13], [Invalid]" classname="Tests" time="0.0"/>
+  <testcase name="[14] [-1], [Invalid]" classname="Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

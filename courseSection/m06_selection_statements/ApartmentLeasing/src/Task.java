@@ -11,5 +11,22 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
+        switch (numberOfBedrooms) {
+            case 1:
+                System.out.println("One Bedroom Selected");
+                System.out.println("Starting Price: 1100");
+                break;
+            case 2:
+                System.out.println("Two Bedroom Selected");
+                System.out.println("Starting Price: 1850");
+                break;
+            case 3:
+                System.out.println("Three Bedroom Selected");
+                System.out.println("Starting Price: 2550");
+                break;
+            default:
+                System.out.println("Sorry, we do not offer that many bedrooms");
+                break;
+        }
     }
 }

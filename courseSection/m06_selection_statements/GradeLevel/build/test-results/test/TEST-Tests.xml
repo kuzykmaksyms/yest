@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-11-05T13:55:46" hostname="DESKTOP-T6BLNLD" time="0.039">
+  <properties/>
+  <testcase name="[1] [2], [ineligible]" classname="Tests" time="0.023"/>
+  <testcase name="[2] [4], [preschool]" classname="Tests" time="0.001"/>
+  <testcase name="[3] [5], [kindergarten]" classname="Tests" time="0.001"/>
+  <testcase name="[4] [10], [elementary]" classname="Tests" time="0.001"/>
+  <testcase name="[5] [12], [middle]" classname="Tests" time="0.001"/>
+  <testcase name="[6] [16], [high]" classname="Tests" time="0.001"/>
+  <testcase name="[7] [22], [college]" classname="Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

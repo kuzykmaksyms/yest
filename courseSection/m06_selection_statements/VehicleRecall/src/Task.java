@@ -8,7 +8,15 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
+        boolean isRange1 = modelYear >= 2001 && modelYear <= 2002;
+        boolean isRange2 = modelYear >= 2004 && modelYear <= 2006;
+        boolean isRange3 = modelYear >= 2015 && modelYear <= 2018;
 
+        if (isRange1 || isRange2 || isRange3) {
+            System.out.println("RECALL");
+        } else {
+            System.out.println("NOT RECALL");
+        }
 
     }
 }

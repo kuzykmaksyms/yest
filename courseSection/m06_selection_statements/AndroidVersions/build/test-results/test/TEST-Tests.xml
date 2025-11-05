@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="13" skipped="0" failures="0" errors="0" timestamp="2025-11-05T13:57:12" hostname="DESKTOP-T6BLNLD" time="0.049">
+  <properties/>
+  <testcase name="[1] [1.5], [Cupcake]" classname="Tests" time="0.025"/>
+  <testcase name="[2] [1.6], [Donut]" classname="Tests" time="0.002"/>
+  <testcase name="[3] [2.1], [Eclair]" classname="Tests" time="0.001"/>
+  <testcase name="[4] [2.2], [Froyo]" classname="Tests" time="0.0"/>
+  <testcase name="[5] [2.3], [Gingerbread]" classname="Tests" time="0.001"/>
+  <testcase name="[6] [3.1], [Honeycomb]" classname="Tests" time="0.001"/>
+  <testcase name="[7] [4.0], [Ice Cream Sandwich]" classname="Tests" time="0.001"/>
+  <testcase name="[8] [4.1], [Jelly Bean]" classname="Tests" time="0.0"/>
+  <testcase name="[9] [4.4], [KitKat]" classname="Tests" time="0.001"/>
+  <testcase name="[10] [5.0], [Lollipop]" classname="Tests" time="0.0"/>
+  <testcase name="[11] [8.0], [Oreo]" classname="Tests" time="0.001"/>
+  <testcase name="[12] [9.0], [Pie]" classname="Tests" time="0.0"/>
+  <testcase name="[13] [9.6], [Not a valid version]" classname="Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

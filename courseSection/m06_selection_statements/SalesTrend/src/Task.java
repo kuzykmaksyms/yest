@@ -12,7 +12,11 @@ public class Task {
         int salesTrend = 0;
 
         //Write your solution here
-
-
+        if (soldToday >= soldYesterday) {
+            salesTrend = 1;
+        } else {
+            salesTrend = -1;
+        }
+        System.out.println("salesTrend = " + salesTrend);
     }
 }
