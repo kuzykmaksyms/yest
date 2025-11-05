@@ -8,6 +8,12 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
-
+        int day = 0;
+        while (inhabitants > 0) {
+            System.out.println("Day " + day + " [" + inhabitants + "]");
+            inhabitants = inhabitants / 2;
+            day++;
+        }
+        System.out.println("---- EXTINCT ----");
     }
 }

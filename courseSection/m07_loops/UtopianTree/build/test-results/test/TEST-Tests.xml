@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-05T15:17:35" hostname="DESKTOP-T6BLNLD" time="0.026">
+  <properties/>
+  <testcase name="[1] [year 1 growth 1 cm, tree size: 1, year 2 growth 1 cm, tree size: 2, year 3 growth 1 cm, tree size: 3, year 4 growth 2 cm, tree size: 5, year 5 growth 2 cm, tree size: 7, year 6 growth 2 cm, tree size: 9, year 7 growth 2 cm, tree size: 11, year 8 growth 2 cm, tree size: 13, year 9 growth 2 cm, tree size: 15, year 10 growth 2 cm, tree size: 17]" classname="Tests" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
