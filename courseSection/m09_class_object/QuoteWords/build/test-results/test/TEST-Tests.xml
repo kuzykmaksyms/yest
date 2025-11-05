@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-11-05T15:38:08" hostname="DESKTOP-T6BLNLD" time="0.034">
+  <properties/>
+  <testcase name="[1] [Java, SQL], [Java, SQL]" classname="Tests" time="0.026"/>
+  <testcase name="[2] [API, Selenium], [API, Selenium]" classname="Tests" time="0.002"/>
+  <testcase name="[3] [SoftSkills, Git], [SoftSkills, Git]" classname="Tests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
