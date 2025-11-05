@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/courseSection/m01_printing_escape_sequences/CoffeeOrTea" />
+            <option value="$PROJECT_DIR$/courseSection/m01_printing_escape_sequences/GasReceipt" />
+            <option value="$PROJECT_DIR$/courseSection/m01_printing_escape_sequences/PrintName" />
+            <option value="$PROJECT_DIR$/courseSection/m01_printing_escape_sequences/PrintPaths" />
+            <option value="$PROJECT_DIR$/courseSection/m01_printing_escape_sequences/PrintingNumbers" />
+            <option value="$PROJECT_DIR$/courseSection/m01_printing_escape_sequences/Stars" />
+            <option value="$PROJECT_DIR$/courseSection/m01_printing_escape_sequences/UserInfo" />
+            <option value="$PROJECT_DIR$/courseSection/m02_variables_datatypes_concatenation/Date" />
+            <option value="$PROJECT_DIR$/courseSection/m02_variables_datatypes_concatenation/Email" />
+            <option value="$PROJECT_DIR$/courseSection/m02_variables_datatypes_concatenation/FlightTicket" />
+            <option value="$PROJECT_DIR$/courseSection/m02_variables_datatypes_concatenation/PhoneNumber" />
+            <option value="$PROJECT_DIR$/courseSection/m02_variables_datatypes_concatenation/Primitives" />
+            <option value="$PROJECT_DIR$/courseSection/m02_variables_datatypes_concatenation/ProductInfo" />
+            <option value="$PROJECT_DIR$/courseSection/m02_variables_datatypes_concatenation/TheaterSeats" />
+            <option value="$PROJECT_DIR$/courseSection/m03_arithmetic_operators/AgeCalculator" />
+            <option value="$PROJECT_DIR$/courseSection/m03_arithmetic_operators/BMICalculator" />
+            <option value="$PROJECT_DIR$/courseSection/m03_arithmetic_operators/CoinMachine" />
+            <option value="$PROJECT_DIR$/courseSection/m03_arithmetic_operators/RectangleArea" />
+            <option value="$PROJECT_DIR$/courseSection/m03_arithmetic_operators/RestaurantBill" />
+            <option value="$PROJECT_DIR$/courseSection/m03_arithmetic_operators/SumOfDigits" />
+            <option value="$PROJECT_DIR$/courseSection/m03_arithmetic_operators/SwapValues" />
+            <option value="$PROJECT_DIR$/courseSection/m04_unary_shorthand_operators/AddPlayers" />
+            <option value="$PROJECT_DIR$/courseSection/m04_unary_shorthand_operators/IncreaseCount" />
+            <option value="$PROJECT_DIR$/courseSection/m04_unary_shorthand_operators/OnSale" />
+            <option value="$PROJECT_DIR$/courseSection/m04_unary_shorthand_operators/Pre-Post Unary operators quiz" />
+            <option value="$PROJECT_DIR$/courseSection/m05_relational_logical_operators/AllowedToDrive" />
+            <option value="$PROJECT_DIR$/courseSection/m05_relational_logical_operators/Bonus" />
+            <option value="$PROJECT_DIR$/courseSection/m05_relational_logical_operators/CanAfford" />
+            <option value="$PROJECT_DIR$/courseSection/m05_relational_logical_operators/EligibleForWork" />
+            <option value="$PROJECT_DIR$/courseSection/m05_relational_logical_operators/IsLetter" />
+            <option value="$PROJECT_DIR$/courseSection/m05_relational_logical_operators/LeapYear" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/AndroidVersions" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/ApartmentLeasing" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/Blackjack" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/Calendar" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/ConfirmationBot" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/DayOfWeek" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/Finra" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/GradeLevel" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/Grades" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/GreaterNumber" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/GreetingHours" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/MiddleNumber" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/OddOrEven" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/PizzaOrder" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/PositiveNegativeOrZero" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/SalesTrend" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/ShelfLife" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/SpeedingTicket" />
+            <option value="$PROJECT_DIR$/courseSection/m06_selection_statements/VehicleRecall" />
+            <option value="$PROJECT_DIR$/courseSection/m07_loops/Alphabet" />
+            <option value="$PROJECT_DIR$/courseSection/m07_loops/EvenAndOddFrom1to20" />
+            <option value="$PROJECT_DIR$/courseSection/m07_loops/Factorial" />
+            <option value="$PROJECT_DIR$/courseSection/m07_loops/From0To50" />
+            <option value="$PROJECT_DIR$/courseSection/m07_loops/UtopianTree" />
+            <option value="$PROJECT_DIR$/courseSection/m07_loops/ZombieAttack" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/CharacterSet" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/FindCube" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/HelloWorld" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/IsEven" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/Max" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/Next3" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/ProfitOrLoss" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/Sign" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/SimpleRoomBooking" />
+            <option value="$PROJECT_DIR$/courseSection/m08_methods/WaterTax" />
+            <option value="$PROJECT_DIR$/courseSection/m09_class_object/AnimalSpecies" />
+            <option value="$PROJECT_DIR$/courseSection/m09_class_object/ComputerBuilder" />
+            <option value="$PROJECT_DIR$/courseSection/m09_class_object/QuoteWords" />
+            <option value="$PROJECT_DIR$/courseSection/m09_class_object/Recipe" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/CountHi" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/CountTriples" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/CoverMe" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/EachCharacter" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/FormatName" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/JavaAndPhython" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/Palindrome" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/Party" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/RemoveDuplicates" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/ReverseString" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/ShoppingList" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/Vowels" />
+            <option value="$PROJECT_DIR$/courseSection/m10_string/WordCount" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/AddToArray" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/AverageTemperature" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/BiggestWord" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/CountEvens" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/FindMax" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/Has55" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/MergeArray" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/ReverseArray" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/ReversedSentence" />
+            <option value="$PROJECT_DIR$/courseSection/m11_array/ShortestWords" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/AppendPosSum" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/BubbleSort" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/ExtractNumber" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/MaxBothSigns" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/Nanuk" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/Refuel" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/SalesReport" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/SortedOrder" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/SumStrings" />
+            <option value="$PROJECT_DIR$/courseSection/m12_arraylist/Swap" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

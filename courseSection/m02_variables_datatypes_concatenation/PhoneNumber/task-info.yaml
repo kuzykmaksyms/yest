@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 74
-        length: 26
+        length: 340
         placeholder_text: //Write your solution here
         initial_state:
           length: 26
@@ -12,11 +12,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: W1VG9BXtQwgryME/JvVnbrDSV/v3yBtDWn+vjiD/BswpwhJZbaUtUzBub8A95k0yx4/dzKZp1mNjgfqohYjMlhiOv619rGxEArEaxuNB+4lAuA6FSNcRU2IV0RDe53vyCGNbVjKaeXAfw8ftVTyD5x/Q+3NlFPfoDy9dg/6mAIbYFJhVjZQk1xccPKNHzySHFb+ulfdXpgm1NUNLRXdZvnR6g/Nw4UotwNrb/KqeAAlFuTODagNqEQVwq5eM/08rdbH4eI2pHPhvD9bEQjtTGw==
         selected: false
-        status: Unchecked
+        status: Solved
         is_visible: false
     learner_created: false
   - name: test/Tests.java
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 05 Nov 2025 13:19:19 UTC"
 record: -1
