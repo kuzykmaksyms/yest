@@ -10,6 +10,7 @@ public class Task {
 
 
         //Write your solution here
-
+        int area = width * height;
+        System.out.println("Area of rectangle=" + area);
     }
 }
