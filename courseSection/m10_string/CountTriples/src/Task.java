@@ -11,7 +11,12 @@ public class Task {
         int tripleCount = 0;
 
         //Write your solution here
-
+        for (int i = 0; i < str.length() - 2; i++) {
+            char c = str.charAt(i);
+            if (c == str.charAt(i + 1) && c == str.charAt(i + 2)) {
+                tripleCount++;
+            }
+        }
         return tripleCount;
     }
 }

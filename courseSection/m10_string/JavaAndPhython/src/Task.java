@@ -13,7 +13,19 @@ public class Task {
         int python = 0;
         int length = str.length();
         //Write your solution here
+        str = str.toLowerCase();
 
+        for (int i = 0; i <= length - 4; i++) {
+            if (str.substring(i, i + 4).equals("java")) {
+                java++;
+            }
+        }
+
+        for (int i = 0; i <= length - 6; i++) {
+            if (str.substring(i, i + 6).equals("python")) {
+                python++;
+            }
+        }
         return java == python;
     }
 }

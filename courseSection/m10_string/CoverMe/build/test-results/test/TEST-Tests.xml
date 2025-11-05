@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-11-05T15:45:02" hostname="DESKTOP-T6BLNLD" time="0.038">
+  <properties/>
+  <testcase name="[1] [java methods, me], java [me]thods" classname="Tests" time="0.027"/>
+  <testcase name="[2] [Certified Wooden Spoon, o], Certified W[o][o]den Sp[o][o]n" classname="Tests" time="0.001"/>
+  <testcase name="[3] [hello hello, ello], h[ello] h[ello]" classname="Tests" time="0.001"/>
+  <testcase name="[4] [apples, pears], [apples]" classname="Tests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

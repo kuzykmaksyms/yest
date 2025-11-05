@@ -8,6 +8,8 @@ public class Task {
     public static int wordCount(String words) {
 
         //Write your solution here
+        String[] wordArray = words.split(" ");
+        return wordArray.length;
     }
 
 }
