@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 74
-        length: 368
+        length: 279
         placeholder_text: //Add your solution here
         initial_state:
           length: 24
@@ -21,5 +21,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Wed, 05 Nov 2025 13:19:49 UTC"
+  time: "Wed, 05 Nov 2025 13:23:13 UTC"
 record: -1

@@ -2,7 +2,6 @@ public class Task {
     public static void main(String[] args) {
 
         //Write your solution here
-        // 1. Оголошення та ініціалізація змінних
         byte age = 30;
         short temperature = -5;
         int distance = 1200;
@@ -12,7 +11,6 @@ public class Task {
         boolean isJavaFun = true;
         char initial = 'G';
 
-// 2. Друк кожної змінної
         System.out.println(age);
         System.out.println(temperature);
         System.out.println(distance);
