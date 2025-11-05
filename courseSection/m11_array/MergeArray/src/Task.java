@@ -10,7 +10,23 @@ public class Task {
     public static int[] mergeArray(int[] nums1, int[] nums2){
 
         //Write your solution here
+        int totalLength = nums1.length + nums2.length;
+        int[] mergedArray = new int[totalLength];
+        int maxLen = Math.max(nums1.length, nums2.length);
+        int index = 0;
 
+        for (int i = 0; i < maxLen; i++) {
+            if (i < nums1.length) {
+                mergedArray[index] = nums1[i];
+                index++;
+            }
+            if (i < nums2.length) {
+                mergedArray[index] = nums2[i];
+                index++;
+            }
+        }
+
+        return mergedArray;
     }
 
 }

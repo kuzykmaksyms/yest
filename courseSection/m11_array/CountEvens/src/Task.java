@@ -8,6 +8,12 @@ public class Task {
     public static int countEvens(int[] nums){
 
         //Write your solution here
-
+        int count = 0;
+        for (int num : nums) {
+            if (num % 2 == 0) {
+                count++;
+            }
+        }
+        return count;
     }
 }
